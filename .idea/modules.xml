@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MonkeyScript.iml" filepath="$PROJECT_DIR$/.idea/MonkeyScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebTest.iml" filepath="$PROJECT_DIR$/WebTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebTestBase.iml" filepath="$PROJECT_DIR$/WebTestBase.iml" />
     </modules>
   </component>
 </project>
