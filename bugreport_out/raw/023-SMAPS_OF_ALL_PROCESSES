@@ -1,0 +1,223 @@
+------ SHOW MAP 1 (/init) (/system/xbin/su root showmap 1) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.396s elapsed]
+
+------ SHOW MAP 2 () (/system/xbin/su root showmap 2) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.391s elapsed]
+
+------ SHOW MAP 3 () (/system/xbin/su root showmap 3) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.393s elapsed]
+
+------ SHOW MAP 7 () (/system/xbin/su root showmap 7) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.401s elapsed]
+
+------ SHOW MAP 8 () (/system/xbin/su root showmap 8) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.395s elapsed]
+
+------ SHOW MAP 9 () (/system/xbin/su root showmap 9) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.399s elapsed]
+
+------ SHOW MAP 10 () (/system/xbin/su root showmap 10) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.404s elapsed]
+
+------ SHOW MAP 11 () (/system/xbin/su root showmap 11) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.407s elapsed]
+
+------ SHOW MAP 12 () (/system/xbin/su root showmap 12) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.410s elapsed]
+
+------ SHOW MAP 13 () (/system/xbin/su root showmap 13) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.393s elapsed]
+
+------ SHOW MAP 14 () (/system/xbin/su root showmap 14) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.404s elapsed]
+
+------ SHOW MAP 15 () (/system/xbin/su root showmap 15) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.394s elapsed]
+
+------ SHOW MAP 16 () (/system/xbin/su root showmap 16) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.398s elapsed]
+
+------ SHOW MAP 17 () (/system/xbin/su root showmap 17) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.399s elapsed]
+
+------ SHOW MAP 20 () (/system/xbin/su root showmap 20) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.387s elapsed]
+
+------ SHOW MAP 21 () (/system/xbin/su root showmap 21) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.392s elapsed]
+
+------ SHOW MAP 22 () (/system/xbin/su root showmap 22) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.402s elapsed]
+
+------ SHOW MAP 23 () (/system/xbin/su root showmap 23) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.393s elapsed]
+
+------ SHOW MAP 26 () (/system/xbin/su root showmap 26) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.397s elapsed]
+
+------ SHOW MAP 27 () (/system/xbin/su root showmap 27) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.395s elapsed]
+
+------ SHOW MAP 28 () (/system/xbin/su root showmap 28) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.392s elapsed]
+
+------ SHOW MAP 29 () (/system/xbin/su root showmap 29) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.393s elapsed]
+
+------ SHOW MAP 32 () (/system/xbin/su root showmap 32) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.403s elapsed]
+
+------ SHOW MAP 33 () (/system/xbin/su root showmap 33) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.417s elapsed]
+
+------ SHOW MAP 34 () (/system/xbin/su root showmap 34) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.406s elapsed]
+
+------ SHOW MAP 35 () (/system/xbin/su root showmap 35) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.394s elapsed]
+
+------ SHOW MAP 38 () (/system/xbin/su root showmap 38) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.396s elapsed]
+
+------ SHOW MAP 39 () (/system/xbin/su root showmap 39) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.393s elapsed]
+
+------ SHOW MAP 40 () (/system/xbin/su root showmap 40) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.402s elapsed]
+
+------ SHOW MAP 41 () (/system/xbin/su root showmap 41) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.393s elapsed]
+
+------ SHOW MAP 44 () (/system/xbin/su root showmap 44) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.390s elapsed]
+
+------ SHOW MAP 45 () (/system/xbin/su root showmap 45) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.398s elapsed]
+
+------ SHOW MAP 46 () (/system/xbin/su root showmap 46) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.400s elapsed]
+
+------ SHOW MAP 47 () (/system/xbin/su root showmap 47) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.403s elapsed]
+
+------ SHOW MAP 50 () (/system/xbin/su root showmap 50) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.391s elapsed]
+
+------ SHOW MAP 51 () (/system/xbin/su root showmap 51) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.392s elapsed]
+
+------ SHOW MAP 52 () (/system/xbin/su root showmap 52) ------
+enter main
+start command :am start -a android.intent.action.MAIN -n com.android.settings/com.meizu.settings.root.FlymeRootRequestActivity --ei uid 2000 --ei pid 16126 > /dev/null
+*** /system/xbin/su: Exit code 254
+[/system/xbin/su: 1.394s elapsed]
+
+------ SHOW MAP 53 () (/system/xbin/su root showmap 53) ------

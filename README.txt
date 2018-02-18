@@ -1,0 +1,14 @@
+自动化压测小脚本：
+apk目录：用于存放待测试的Apk
+bugreport_out目录：用于存放测试完成输出的报告
+reference目录：用于存放参考文件
+MonkeySourceScript.java：Monkey的源码，供查看
+.config：自动化压力测试的配置信息文件
+battery.html：生成的电池测试报告
+bugreport.txt：生成的bugreport文件
+chkbugreport.jar：输出测试报告的工具
+historian.py：输出电池测试报告需要的脚本
+monkey.script：真正需要执行的script脚本
+runmonkey.py：执行的Python脚本
+start.bat：为测试准备一个点击就可以执行的bat脚本（脚本的开始）
+viewBadging：可以查看包名和Activity名
